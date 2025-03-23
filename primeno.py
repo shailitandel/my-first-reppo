@@ -12,6 +12,3 @@ else:
             break
         else:
             i=i+1
-
-
-
